@@ -1,4 +1,4 @@
-### Hi, I'm John Woolsey. I am an electrical engineer, a software developer, and an educator.
+![Profile Banner Image](assets/GitHub-Banner-JW-2970x900.png)
 
 I have a background in semiconductor design and application development, but my passion is teaching others how to design and build software and electronics under the [Woolsey Workshop](https://www.woolseyworkshop.com) brand. It provides tutorials, code, and other resources covering a range of electronics and software topics, especially those of interest to the open source maker community and educational institutions. Topics typically cover Arduino, Raspberry Pi, and CircuitPython platforms; sensor, actuator, and display interfacing; embedded programming; and general circuit design and simulation.
 
